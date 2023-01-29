@@ -32,20 +32,4 @@ var keyName = "cgpa";
 var cgpa = student[keyName];
 console.log(cgpa);
 
-
-// ------------set element:-----------------
-//  -----there is 3 different ways:------
-
-// way-1:
-student.name = "Ariyan Emon";
-console.log(student.name);
-
-// way-2:
-student["age"] = 22;
-console.log(student["age"]);
-
-// way-3:
-var keyName = "cgpa";
-student[keyName]= 3.87;
-console.log(student[keyName]);
-
+console.log(student);
