@@ -33,3 +33,7 @@ const pizza = {
 
 এবং pepperoni প্রিন্ট করবা।
 
+6. take and array as input and using function fine their avegage and return its average value
+
+7. using function check whether a number is even or odd
+

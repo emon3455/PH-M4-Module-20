@@ -32,4 +32,4 @@ var keyName = "cgpa";
 var cgpa = student[keyName];
 console.log(cgpa);
 
-console.log(student);
+// console.log(student);
